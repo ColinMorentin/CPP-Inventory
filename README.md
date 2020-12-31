@@ -1,2 +1,2 @@
-# CPP-Projects
-Basic projects for C++ reference
+# CPP-Inventory
+Basic project for c++
